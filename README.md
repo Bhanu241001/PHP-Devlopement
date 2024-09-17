@@ -1,9 +1,11 @@
+# VALIDATION FORM
 
-Description
-I have designed and displayed a simple form in which I used PHP and MySql for background functionalites.
+**Description:**
 
-Technologies Used
-HTML
-CSS
-PHP
-JavaScript
+This is a simple personal form website showcasing my skills and projects. It's built using HTML, CSS, and JavaScript.It also uses PHP and MySql to append backend functions.
+
+**Technologies Used:**
+
+* HTML
+* CSS
+* JavaScript
